@@ -1,3 +1,3 @@
-## Hello Phyton
+## Hello Python
 
-### Bye phyton
+### Bye python
