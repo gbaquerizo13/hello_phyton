@@ -20,3 +20,13 @@ print(type(otherValue))
 
 #combine text and number with str() function
 print(str(otherValue) + " is of the data type " + str(type(otherValue)))
+
+#introduce another variable with value complex data and print the data in console
+theValue=5j
+print(theValue)
+
+#print in console a tyope of value is the variable in console
+print(type(theValue))
+
+#combine the text and number with str()
+print(str(theValue) + " is of data type " + str(type(theValue)))
