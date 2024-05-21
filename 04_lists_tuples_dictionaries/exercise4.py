@@ -38,3 +38,14 @@ print(myFinalAnswerTuple[1])
 #print in console by position the fruit pineapple
 print(myFinalAnswerTuple[2])
 
+#3. defining a dictionary with list of people favorite fruits
+myFavoriteFruitDictionary = {
+    "akua" : "apple",
+    "Saanvi" : "banana",
+    "Paulo" : "pineapple"
+    }
+#using print() fuction to see the list dictionary in terminal
+print(myFavoriteFruitDictionary)
+
+#using type() function to see the data type in terminal
+print(type(myFavoriteFruitDictionary))
