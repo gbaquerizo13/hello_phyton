@@ -7,10 +7,10 @@ print(myFruitList)
 #print in colsole whta type of data is the variable with function type()
 print(type(myFruitList))
 
-#print in console by pisition the fruit apple
+#print in console by position the fruit apple
 print(myFruitList[0])
 
-#print in console by pisition the fruit banana
+#print in console by position the fruit banana
 print(myFruitList[1])
 
 #print in console by position the fruit cherry
@@ -28,3 +28,13 @@ myFinalAnswerTuple = ("apple", "banana", "pineapple")
 #print the tuple in console and print the type of data with type()
 print(myFinalAnswerTuple)
 print(type(myFinalAnswerTuple))
+
+#print in console by position the fruit apple
+print(myFinalAnswerTuple[0])
+
+#print in console by position the fruit banana
+print(myFinalAnswerTuple[1])
+
+#print in console by position the fruit pineapple
+print(myFinalAnswerTuple[2])
+
