@@ -21,3 +21,10 @@ myFruitList[2] = "orange"
 
 #print the result of change in console
 print(myFruitList)
+
+#2. Create a tuple, is like a list but it can't be changed after it's created
+myFinalAnswerTuple = ("apple", "banana", "pineapple")
+
+#print the tuple in console and print the type of data with type()
+print(myFinalAnswerTuple)
+print(type(myFinalAnswerTuple))
