@@ -49,3 +49,8 @@ print(myFavoriteFruitDictionary)
 
 #using type() function to see the data type in terminal
 print(type(myFavoriteFruitDictionary))
+
+#accessing to the dictionary by name of people and print in console is favorite fruit
+print(myFavoriteFruitDictionary["akua"])
+print(myFavoriteFruitDictionary["Saanvi"])
+print(myFavoriteFruitDictionary["Paulo"])
