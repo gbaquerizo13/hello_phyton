@@ -44,3 +44,8 @@ with open('06_composite_data/car_fleet.csv') as csvFile:
     print(f'Processed {lineCount} lines.')
 
     currentCar = copy.deepcopy(myCar)
+
+    for myCarProperties in myCarList:
+        for key, value in myCarProperties.items():
+            print("{} : {}".format(key,value))
+            print("-------")
