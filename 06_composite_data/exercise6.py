@@ -17,3 +17,6 @@ myVehicle = {
 #with for loop print the key and value in terminal of the dictionary. the {} are the item in the dictionary and .format contains what is the value insert in the {} and printing
 for key, value in myVehicle.items():
     print("{} : {}".format(key,value))
+
+#defnie a empty list to read car inventory
+myCarlist = []
